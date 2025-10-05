@@ -43,7 +43,7 @@
 ### Messages Dictionary
 | Code   | Entity Name           | Entity Code   | Configuration File                     | Table Name |
 | :-:    | :--------             | :----         | :----                                  | :----   |
-| 1      | Messages Dictionary   | MESSAGE       | $FND_TOP/patch/115/import/afmsg.lct    | FND_NEW_MESSAGES  |
+| 1      | Messages Dictionary   | MESSAGE       | $FND_TOP/patch/115/import/afmdmsg.lct    | FND_NEW_MESSAGES  |
 
 <br>
 
